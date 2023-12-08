@@ -1,9 +1,5 @@
 package benimProjem.kullanici;
 
-import dersehazirlik.DataAcces;
-import dersehazirlik.DataManager;
-
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class KullaniciManager {
